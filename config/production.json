@@ -1,0 +1,10 @@
+{
+    "nombre": "API REST EXPRESS",
+    "configDB":{
+
+    },
+    "configTOKEN":{
+        "SEED": "Cs1",
+        "expiration": "24h"
+    }
+}
